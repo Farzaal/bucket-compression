@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bucket-compression/static/css/main.0880e3c8.css",
+    "main.js": "/bucket-compression/static/js/main.d17c271c.js",
+    "index.html": "/bucket-compression/index.html",
+    "main.0880e3c8.css.map": "/bucket-compression/static/css/main.0880e3c8.css.map",
+    "main.d17c271c.js.map": "/bucket-compression/static/js/main.d17c271c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0880e3c8.css",
+    "static/js/main.d17c271c.js"
+  ]
+}
